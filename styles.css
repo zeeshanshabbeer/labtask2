@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+   
+  }
+  
+  .bg {
+    /* The image used */
+    /* background-image: url("./bruno-kelzer-LvySG1hvuzI-unsplash.jpg"); */
+  background: aqua;
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
+
+#addbtn{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+button{
+  margin-left:10px;
+}
+
+
+.recclass{
+    border-bottom: 2px dashed black;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+h5{
+    display: inline;
+}
